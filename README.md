@@ -1,1 +1,2 @@
-Build 2 simple dicom viewer by QT and WPF framework for learning.
+Build dicom softwares by C-sharp
+Use fo-dicom library get by Nuget packages

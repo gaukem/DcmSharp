@@ -1,3 +1,0 @@
-Create Dicom Viewer by WPF Framework
-- Read/Write dicom file by fo-dicom library for investigating target.
-- Link: https://github.com/fo-dicom/fo-dicom
